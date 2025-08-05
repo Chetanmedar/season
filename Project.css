@@ -1,0 +1,38 @@
+div h1 {
+    text-align: center;
+    color: blue;
+    background-color: rgb(67, 4, 53);
+    padding: 10px;
+    margin-top: 0;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.a {
+    position: relative;
+    top: 30px;   
+    padding: 20px;
+}
+
+h2 {
+    color: blueviolet;
+    text-decoration: underline wavy blueviolet;
+}
+
+b {
+    color: rgb(151, 32, 129);
+}
+
+.c {
+    color: white;
+    background-color: rgb(54, 53, 53);
+    text-align: center;
+    margin-top: 50px;
+    font-size: 10px;
+}
+.b {
+    color: chartreuse;
+    text-decoration: underline double rgb(173, 189, 27);
+}
